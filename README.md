@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
+https://talklive.onrender.com/
 
 ![](https://github.com/vishu7im/TalkLive/blob/master/screenshots/group%20%2B%20notif.PNG)
 
